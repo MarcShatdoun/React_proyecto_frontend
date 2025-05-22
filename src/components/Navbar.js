@@ -8,7 +8,7 @@ export default function Navbar() {
   
     const handleLogout = () => {
       logout();
-      navigate('/'); // 👈 redirige al home
+      navigate('/'); 
     };
 
 
